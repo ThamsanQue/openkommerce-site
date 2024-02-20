@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Pinwheel Astro",
-    "base_url": "https://pinwheel-astro.vercel.app",
+    "title": "OpenKommerce",
+    "base_url": "https://openkommerce.africa",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/openk.svg",
+    "logo": "/images/openk.svg",
     "logo_width": "147",
     "logo_height": "31",
-    "logo_text": "Pinwheel"
+    "logo_text": "OpenKommerce"
   },
 
   "settings": {
@@ -18,32 +18,31 @@
   },
 
   "call_to_action": {
-    "title": "Helping teams in the world with focus",
-    "description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
+    "title": " Your Gateway to Online Success",
+    "description": "Ready to take your business to new heights online? Join OpenKommerce today and unleash your ecommerce potential! Get started now and revolutionize your online presence.",
     "button": {
-      "label": "Download The Theme",
-      "link": "https://themefisher.com/astro-themes/pinwheel-astro"
+      "label": "Launch your Store",
+      "link": "https://admin.openkommerce.africa"
     }
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "openkommerce",
     "settings": {}
   },
 
   "params": {
-    "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
-    "location": "2118 Thornridge Cir. Syracuse, Connecticut 35624",
-    "phone": "+704-555-0127",
+    "footer_description": "With OpenKommerce, we're breaking down barriers and making it easier than ever for entrepreneurs like you to enter the ecommerce space",
+    "email": "info@openkommerce.africa",
+    "location": "World Wide Web Is Where You Find Us",
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024 OpenKommerce by [ThamsanqaJ](https://thamsanqaj-fea43.web.app/)"
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "ThamsanqaJ",
     "meta_image": "/images/og-image.png",
-    "meta_description": "pinwheel astro"
+    "meta_description": "Open Kommerce"
   }
 }

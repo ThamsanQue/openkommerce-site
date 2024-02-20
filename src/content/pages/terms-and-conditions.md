@@ -1,41 +1,37 @@
 ---
-title: "Terms & Condition Of Pinwheel"
-excerpt: Donec sollicitudin molestie malesda. Donec sollitudin molestie male <br /> suada Mauris pellentesque nec egestas non nisi Cras
+title: "Terms & Condition Of OpenKommerce"
+excerpt: These Terms and Conditions ("Terms") govern your use of the OpenKommerce website and services. By accessing or using our website and services, you agree to be bound by these Terms.
 draft: false
 ---
 
-### 1. Definitions
+### 1. Use of Services
 
-We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number. The personal data we collect from you is disclosed only in accordance with our Terms of Service and/or this Privacy Policy.Conclude collects Slack account and access information from Users for the purposes of connecting to the Slack API and to authenticate access to information on the Conclude website. Whenever you visit our Site, we may collect non-identifying information from you, such as referring URL, browser, operating system, cookie information, and Internet Service Provider. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, this information alone cannot usually be used to identify you.The term "personal data" does not include any anonymized and aggregated data made on the basis of personal data, which are wholly owned by Conclude.
+- You must be at least 18 years old to use our services.
+- You agree to provide accurate and complete information when using our services.
+- You are responsible for maintaining the confidentiality of your account and password and for restricting access to your account.
 
-### 2. General Terms
+### 2.Intellectual Property
 
-#### Service Provided AS IS
+- All content included on our website, such as text, graphics, logos, and images, is the property of OpenKommerce and is protected by copyright laws.
+- You may not reproduce, distribute, modify, or create derivative works of our content without our express written consent.
 
-The Service is provided for free during this pilot project, and is provided "as is" with no warranty. Conclude will provide User support for the Service, however; Conclude is not committed to any level of service or availability of the Service. A further description of the Service and our user support is available at the Site.
+#### Limitation of Liability
 
-#### Interoperation with Slack
+- We are not liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with your use of our website or services.
 
-The Service interoperates with Slack.com, and depends on the continuing availability and access to Slack. If for any reason Conclude cannot access or use Slack (including without limitation, change in terms or increase in fees charged by Slack), Conclude may not be able to provide all of the functions of its Service. No refund or credit, if applicable, will be provided for temporary unavailability of Slack (for example, maintenance windows).
+#### Indemnification
 
-#### Company Liability
+- You agree to indemnify and hold OpenKommerce harmless from any claims, losses, damages, liabilities, costs, and expenses arising from your use of our website or services.
 
-If you enter into this agreement on behalf of a company, you hereby agree that the company is responsible under this Agreement for all actions and omissions conducted by its designated users of the Service.
+### 4.Governing Law
 
-### 4. Rules of Use
+1- These Terms shall be governed by and construed in accordance with the laws of [your jurisdiction], without regard to its conflict of law provisions.
 
-1. must keep passwords secure and confidential;
-2. are solely responsible for User Data and all activity in their account while using the Service;
-3. must use commercially reasonable efforts to prevent unauthorized access to their account, and notify Conclude promptly of any such unauthorized access; and
-4. may use the Service only in accordance with Conclude's online user guide and all applicable laws and regulations.
+#### Changes to Terms
 
-#### You must not
+- We reserve the right to modify or replace these Terms at any time. Changes will be effective immediately upon posting on our website.
+- Your continued use of our website and services after any changes to these Terms constitutes acceptance of those changes.
 
-- Enhance or improve User experience, our Site, or our Service.
-- Process transactions.
-- Send emails about our Site or respond to inquiries.
-- As this Privacy Policy and our Terms of Service.
+### 5. Contact Us
 
-### 5. Intellectual Property Rights
-
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you choose to provide information to us, Conclude transfers Personal Information to Google Cloud Platform and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+- If you have any questions about these Terms, please contact us at info@openkommerce.africa

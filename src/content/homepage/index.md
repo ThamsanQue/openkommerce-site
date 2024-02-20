@@ -1,48 +1,34 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
-  image: /images/banner-img.png
+  title: "OpenKommerce: Your Key to Unlocking Online Success for Your Local Business!"
+  content: "With OpenKommerce, we're breaking down barriers and making it easier than ever for entrepreneurs like you to enter the ecommerce space"
+  image: /images/ecom1.svg
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
+    label: Launch Your Store
+    link: "https://admin.openkommerce.africa"
     enable: true
 
 ##key features
 key_features:
-  title: "The Highlighting Part Of Our Solution"
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+  title: "Here's how we do it:"
+  description: Are you a small business owner looking to expand your reach and tap into the vast opportunities of the online market? Look no further! OpenKommerce is here to level the playing field and help you establish your presence in the digital world.
+
   feature_list:
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "link"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Sound Amplifier
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "map"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Smart Reply
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    - icon: "monitor"  #icon package react-feather-icon [https://feathericons.com/]
-      title: Live Caption
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
+      title: Education & Support
+      content: Harness the power of knowledge with our comprehensive resources. From ecommerce essentials to digital marketing mastery, we're your guide.
+    - icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
+      title: Simplified Setup
+      content: Say goodbye to tech headaches. Our user-friendly tools make creating your store a breeze. No coding skills needed!
+    - icon: "link" #icon package react-feather-icon [https://feathericons.com/]
+      title: Affordable Solutions
+      content: Budget-friendly options tailored to you. Flexible pricing, no hidden fees—start selling online without financial strain.
+    - icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
+      title: Access to OpenKommerce
+      content: Dive into our cutting-edge platform. Customize, integrate, and scale your business with ease.
+    - icon: "map" #icon package react-feather-icon [https://feathericons.com/]
+      title: Community and Collaboration
+      content: Join forces with fellow entrepreneurs. Learn, share, and grow together in our vibrant community.
 
 #service
 service:
@@ -50,32 +36,32 @@ service:
     title: Prevent failure from to impacting your reputation
     description: Our platform helps you build secure onboarding authentication experiences that retain and engage your users. We build the infrastructure, you can.
     tab_list:
-        - title: Habit building essential choose habit
-          icon: "lock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
-        - title: Get an overview of Habit Calendars.
-          icon: "clock"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/collaboration.png"
-        - title: Start building with Habitify platform
-          icon: "bell"  #icon package react-feather-icon [https://feathericons.com/]
-          image: "/images/sells-by-country.png"
+      - title: "Visibility: Boost brand exposure, attract new customers."
+        icon: "lock" #icon package react-feather-icon [https://feathericons.com/]
+        image: "/images/ecom3.svg"
+      - title: "Accessibility: Shop anytime, anywhere, enhance convenience."
+        icon: "clock" #icon package react-feather-icon [https://feathericons.com/]
+        image: "/images/ecom4.svg"
+      - title: "Reach: Expand customer base, break geographical barriers."
+        icon: "bell" #icon package react-feather-icon [https://feathericons.com/]
+        image: "/images/ecom5.svg"
 
   our_service:
-    - title: Accept payments any country in this whole universe
+    - title: Key Benefits of Headless Commerce
       desctiption: Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed
-      image: "/images/collaboration.png"
+      image: "/images/ecom2.svg"
       list:
-        - Supporting more than 119 country world
-        - Open transaction with more than currencies
-        - Customer Service with 79 languages
-    - title: Accountability that works for you
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas Werat viverra id et aliquet. vulputate egestas sollicitudin.
+        - "Adapt: Flexible design and functionality."
+        - "Scale: Seamless business growth."
+        - "Speed: Faster website performance."
+    - title: Mastering Headless Ecommerce
+      description: Headless ecommerce means separating the front-end (what customers see) from the back-end (how the website works). It gives businesses more flexibility to create unique and faster online stores that can adapt to different devices and technologies easily
       video:
-        thumbnail: "/images/intro-thumbnail.png"
-        video_id: "g3-VxLQO7do"
+        thumbnail: "/images/headless.png"
+        video_id: "qzl76LxV8Uc"
       button:
-        label: Know About Us
-        link: "#"
+        label: Launch Your Store
+        link: "https://admin.openkommerce.africa"
         enable: true
 
 #testimonial
