@@ -6,7 +6,7 @@ import menu from "@/config/menu.json";
 import social from "@/config/social.json";
 import { markdownify } from "@/lib/utils/textConverter";
 const { footer } = menu;
-const { copyright, location, email, phone, footer_description } = config.params;
+const { copyright, location, email, footer_description } = config.params;
 ---
 
 <footer class="footer bg-[#F1F1F1]">
@@ -46,11 +46,6 @@ const { copyright, location, email, phone, footer_description } = config.params;
               >{email}</a
             >
           </li>
-          <li>
-            <a class="hover:text-primary hover:underline" href={`tel:${phone}`}
-              >{phone}</a
-            >
-          </li>
         </ul>
       </div>
     </div>
@@ -60,6 +55,8 @@ const { copyright, location, email, phone, footer_description } = config.params;
       class="footer-copyright mx-auto border-t border-border pb-10 pt-7 text-center"
     >
       <p class="content text-text" set:html={markdownify(copyright)} />
+      <a href="/privacy-policy" class="hover:text-primary font-semibold">Privacy Policy</a> ·
+      <a href="/terms-and-conditions" class="hover:text-primary font-semibold">Terms & Conditions</a>
     </div>
   </div>
 </footer>
