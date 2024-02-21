@@ -8,21 +8,7 @@
       "name": "About",
       "url": "/about"
     },
-    {
-      "name": "Policies",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Terms And Conditions",
-          "url": "/terms-and-conditions"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
-        }
-      ]
-    },
+
     {
       "name": "Contact",
       "url": "/contact"
