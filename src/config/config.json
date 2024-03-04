@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "OpenKommerce",
-    "base_url": "https://openkommerce.africa",
+    "base_url": "https://site.openkommerce.africa",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/openk.svg",
@@ -22,7 +22,7 @@
     "description": "Ready to take your business to new heights online? Join OpenKommerce today and unleash your ecommerce potential! Get started now and revolutionize your online presence.",
     "button": {
       "label": "Launch your Store",
-      "link": "https://admin.openkommerce.africa"
+      "link": "https://openkommerce.africa"
     }
   },
 
