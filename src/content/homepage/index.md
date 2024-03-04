@@ -61,7 +61,7 @@ service:
         video_id: "qzl76LxV8Uc"
       button:
         label: Launch Your Store
-        link: "https://admin.openkommerce.africa"
+        link: "https://openkommerce.africa"
         enable: true
 
 #testimonial
