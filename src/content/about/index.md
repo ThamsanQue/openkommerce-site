@@ -3,7 +3,7 @@ title: "About"
 page_title: "About our company"
 buttons:
   - label: Launch Your Store
-    link: "https://admin.openkommerce.africa"
+    link: "https://openkommerce.africa"
     enable: true
   - label: Learn More
     link: "#"
@@ -42,7 +42,7 @@ features:
   title: The six core work <br /> drive everything do
   button:
     label: Launch Your Store
-    link: "https://admin.openkommerce.africa"
+    link: "https://openkommerce.africa"
     enable: true
   features_list:
     - title: Accessibility
