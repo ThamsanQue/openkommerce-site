@@ -5,7 +5,7 @@ banner:
   image: /images/ecom1.svg
   button:
     label: Launch Your Store
-    link: "https://admin.openkommerce.africa"
+    link: "https://openkommerce.africa"
     enable: true
 
 ##key features
